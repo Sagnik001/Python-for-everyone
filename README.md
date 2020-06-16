@@ -1,4 +1,5 @@
-# Python-for-me
+# Python-for-everyone
+
 This is a coursera specialization in python consisting of 5 courses.
 
 1.Programming for Everybody (Getting Started with Python)
